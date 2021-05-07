@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+##About
+
+Next.js based Ecommerce web app with razor pay payment gateway.
